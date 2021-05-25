@@ -14,7 +14,7 @@
 
 - Copy your csv file which has numbers of clients into this directory
 
-    *NOTE: Keep the columns name as `Number` in your csv file for Phone Numbers and add country code*
+    *NOTE: Keep the columns name as `Number` in your csv file for Phone Numbers and add country code eg. +919876543210*
 
 - Replace Filename and Message in `config.py`
 
