@@ -6,8 +6,13 @@
 
 
 ### Steps To Follow:
+- Open CMD or Terminal
+
 - Clone this repo
     `git clone https://github.com/sociopath00/whatsapp-bulk-messages.git`
+
+- Change the working directory
+    `cd whatsapp-bulk-messages.git`
 
 - Install necessary packages
     `pip install -r requirements.txt`
